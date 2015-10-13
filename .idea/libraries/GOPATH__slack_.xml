@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;slack&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.idea" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../Grocy" />
+      <root url="file://$PROJECT_DIR$/../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../firsttest" />
+      <root url="file://$PROJECT_DIR$/../martiniApi" />
+      <root url="file://$PROJECT_DIR$/../imageProcessing" />
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+      <root url="file:///usr/local/Cellar/go/1.4/libexec/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
